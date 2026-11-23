@@ -49,7 +49,7 @@ X   Francisco Vicent
   - Realizó la estructura HTML.
   - Documentó código.
 
-- **Javier Domenez**:
+- **Javier Domene**:
   - Creó la hoja de estilos CSS.
   - Colaboró con el archivo JS.
 
